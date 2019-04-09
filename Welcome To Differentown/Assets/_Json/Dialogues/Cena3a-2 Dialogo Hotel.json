@@ -1,0 +1,13 @@
+﻿[
+	{
+        "nomePersonagem": "Receptionist",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_npc2_conversa",
+        "fala":[
+             "Good afternoon.",
+			 "Welcome to Palas Hotel!",
+			 "It’s a pleasure to have you with us.",
+			 "How can I help you?"
+            ]
+    }	
+]

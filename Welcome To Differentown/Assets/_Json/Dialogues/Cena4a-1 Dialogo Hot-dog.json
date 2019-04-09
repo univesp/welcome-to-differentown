@@ -1,0 +1,66 @@
+﻿[
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "%, look! What about we have a hot-dog now?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "That’s a good idea, Lauren! I’m starving!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "In Differentown, people like hot-dogs with lots of onions."
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "Ugh! I don’t like onions, but I really enjoy mashed potatoes in my hot-dog."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Okay. Would you like to order?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "Yes!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Hot-dog Seller",
+        "jogadorFala": false,
+        "expressao": "park_cena_npc1_conversa",
+        "fala":[
+			 "Hello, friend!",
+			 "Welcome to B-Dogs, the best hot-dog you will find in the street!",
+			 "So tell me, how would you like it today?"
+            ]
+    }
+]

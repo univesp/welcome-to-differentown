@@ -1,0 +1,10 @@
+﻿[
+	{
+        "nomePersonagem": "Receptionist",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_npc2_conversa",
+        "fala":[
+             "Sorry, that's not the time breakfast is served."
+            ]
+    }
+]

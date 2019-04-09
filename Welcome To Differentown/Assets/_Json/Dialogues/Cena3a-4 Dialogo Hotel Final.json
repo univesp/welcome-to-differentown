@@ -1,0 +1,11 @@
+﻿[
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Here's a map of Differentown.",
+             "Which place would you like to visit now?"
+            ]
+    }
+]

@@ -1,0 +1,48 @@
+﻿[
+	{
+        "nomePersonagem": "Hot-dog Seller",
+        "jogadorFala": false,
+        "expressao": "park_cena_npc1_conversa",
+        "fala":[
+			 "I’m so sorry, but I really can’t understand you..."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Hey, %!",
+			 "What are you trying to say is: Can you switch the onions for mashed potatoes, please?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Hot-dog Seller",
+        "jogadorFala": false,
+        "expressao": "park_cena_npc1_conversa",
+        "fala":[
+			 "Oh! Of course!",
+			 "Here it is, my friend!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "WOW! It’s looking really good! Can I taste it?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "Sure!"
+            ]
+    }
+]

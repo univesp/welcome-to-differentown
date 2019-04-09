@@ -1,0 +1,19 @@
+﻿[
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Oh, is that all?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "You say that because it’s not you that’s going to carry all that stuff..."
+            ]
+    }
+]

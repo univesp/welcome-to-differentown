@@ -1,0 +1,11 @@
+﻿[
+	{
+        "nomePersonagem": "Receptionist",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_npc2_conversa",
+        "fala":[
+             "Sorry, I  can’t understand you.",
+			 "Could you repeat that, please?"
+            ]
+    }	
+]

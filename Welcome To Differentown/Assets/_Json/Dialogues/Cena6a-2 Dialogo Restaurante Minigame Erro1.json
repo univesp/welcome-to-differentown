@@ -1,0 +1,11 @@
+﻿[
+	{
+        "nomePersonagem": "Waiter",
+        "jogadorFala": false,
+        "expressao": "restaurant_cena_npc_conversa",
+        "fala":[
+			 "I’m sorry, are you not satisfied?",
+			 "Do you want to order something else?"
+            ]
+    }
+]

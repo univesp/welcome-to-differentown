@@ -1,0 +1,40 @@
+﻿[	
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "I also have a Beagle, called George. It’s five years old.",
+			 "I always wanted to have one, it was love at first sight! Haha!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Dog owner",
+        "jogadorFala": false,
+        "expressao": "park_cena_npc2_conversa",
+        "fala":[
+			 "That’s cool!",
+			 "I received Mila as a birthday gift from my mother 3 years ago.",
+			 "I love Beagles, they’re the best! Isn’t it true, Mila?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Hahaha! Mila is tickling me!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "I think you made a new friend, Lauren! Haha!"
+            ]
+    }
+]

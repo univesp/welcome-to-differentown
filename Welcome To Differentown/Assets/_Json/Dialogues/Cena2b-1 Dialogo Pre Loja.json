@@ -1,0 +1,12 @@
+﻿[
+	{
+        "nomePersonagem": " ",
+        "jogadorFala": true,
+        "expressao": " ",
+        "fala":[
+             "Será que usei a palavra correta?",
+			 "Vou perguntar de novo.",
+			 "Mas antes vou aproveitar para comer um chocolate logo ali."
+            ]
+    }	
+]

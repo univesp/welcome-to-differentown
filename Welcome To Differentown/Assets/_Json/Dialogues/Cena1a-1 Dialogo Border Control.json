@@ -1,0 +1,11 @@
+﻿[
+	{
+        "nomePersonagem": "Officer",
+        "jogadorFala": false,
+        "expressao": "airport_cena1a_npc_conversa",
+        "fala":[
+             "Welcome to Differentown.",
+			 "Name and passport, please?"
+            ]
+    }
+]

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: NPCConversa
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300004, guid: 379bc416a8fca2443bbe0bd0ea8a490b, type: 3}
+    - {fileID: 21300022, guid: 379bc416a8fca2443bbe0bd0ea8a490b, type: 3}
+    - {fileID: 21300028, guid: 379bc416a8fca2443bbe0bd0ea8a490b, type: 3}
+    - {fileID: 21300008, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+    - {fileID: 21300014, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+    - {fileID: 21300024, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+    - {fileID: 21300028, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+    - {fileID: 21300034, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+    - {fileID: 21300042, guid: 314b2c8eabdb4d149a5f1ac599533dff, type: 3}
+    - {fileID: 21300044, guid: 314b2c8eabdb4d149a5f1ac599533dff, type: 3}
+    - {fileID: 21300048, guid: 314b2c8eabdb4d149a5f1ac599533dff, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300024, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+  - {fileID: 21300014, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+  - {fileID: 21300028, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+  - {fileID: 21300034, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+  - {fileID: 21300008, guid: aba5227155a5f3748b100a02e9c837e3, type: 3}
+  - {fileID: 21300004, guid: 379bc416a8fca2443bbe0bd0ea8a490b, type: 3}
+  - {fileID: 21300022, guid: 379bc416a8fca2443bbe0bd0ea8a490b, type: 3}
+  - {fileID: 21300028, guid: 379bc416a8fca2443bbe0bd0ea8a490b, type: 3}
+  - {fileID: 21300042, guid: 314b2c8eabdb4d149a5f1ac599533dff, type: 3}
+  - {fileID: 21300044, guid: 314b2c8eabdb4d149a5f1ac599533dff, type: 3}
+  - {fileID: 21300048, guid: 314b2c8eabdb4d149a5f1ac599533dff, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hotel_cena_npc2_conversa
+  - airport_cena2b_npc_conversa
+  - park_cena_npc1_conversa
+  - park_cena_npc2_conversa
+  - airport_cena2c_npc_conversa
+  - airport_cena1a_npc_conversa
+  - airport_cena1c_npc_conversa
+  - airport_cena2a_npc_conversa
+  - hotel_cena_lauren_conversa
+  - restaurant_cena_npc_conversa
+  - shopping_cena_npc1_conversa
+  m_Tag: NPCConversa
+  m_IsVariant: 0

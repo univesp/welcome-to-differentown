@@ -1,0 +1,38 @@
+﻿[
+	{
+        "nomePersonagem": "Waiter",
+        "jogadorFala": false,
+        "expressao": "restaurant_cena_npc_conversa",
+        "fala":[
+			 "How was the meal?",
+			 "The spicy pasta is one of our specialities!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "It was great as always!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "I’m really impressed! It was delicious!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Waiter",
+        "jogadorFala": false,
+        "expressao": "restaurant_cena_npc_conversa",
+        "fala":[
+			 "Will you order something else?"
+            ]
+    }
+]

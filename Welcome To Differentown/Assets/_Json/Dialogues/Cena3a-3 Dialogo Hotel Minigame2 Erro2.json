@@ -1,0 +1,30 @@
+﻿[
+	{
+        "nomePersonagem": "Receptionist",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_npc2_conversa",
+        "fala":[
+             "Sorry, that’s not correct.",
+			 "Breakfast starts at a quarter to eight."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+             "Remember that in English 15 minutes is a quarter of an hour.",
+			 "So, a quarter to eight is 7h45."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Receptionist",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_npc2_conversa",
+        "fala":[
+             "That’s correct."
+            ]
+    }
+]

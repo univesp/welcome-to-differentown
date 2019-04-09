@@ -1,0 +1,22 @@
+﻿[
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "I’m so happy that we came here together!",
+			 "This restaurant is one of my favorites!",
+			 "I really like the pasta that they serve here.",
+			 "Have you decided what you want to order?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "Not yet. Let me check the menu, please."
+            ]
+    }
+]

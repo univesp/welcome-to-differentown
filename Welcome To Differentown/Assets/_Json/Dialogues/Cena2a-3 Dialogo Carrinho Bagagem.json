@@ -1,0 +1,11 @@
+﻿[
+	{
+        "nomePersonagem": "Employee",
+        "jogadorFala": false,
+        "expressao": "airport_cena2a_npc_conversa",
+        "fala":[
+             "Yes, I do.",
+			 "Do you see the person in red right there? If you turn left..."
+            ]
+    }	
+]

@@ -1,0 +1,10 @@
+﻿[
+	{
+        "nomePersonagem": "Vendor",
+        "jogadorFala": false,
+        "expressao": "shopping_cena_npc1_conversa",
+        "fala":[
+			 "Have a nice day!"
+            ]
+    }
+]

@@ -1,0 +1,47 @@
+﻿[
+	{
+        "nomePersonagem": "Vendor",
+        "jogadorFala": false,
+        "expressao": "shopping_cena_npc1_conversa",
+        "fala":[
+			 "I’m really sorry, but we don’t accept that payment method."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Excuse me, we’re paying these sneakers in cash."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Vendor",
+        "jogadorFala": false,
+        "expressao": "shopping_cena_npc1_conversa",
+        "fala":[
+			 "Alright. Sorry for the inconvenience.",
+			 "Done. Thank you for your preference!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Thanks!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "Thank you!"
+            ]
+    }
+]

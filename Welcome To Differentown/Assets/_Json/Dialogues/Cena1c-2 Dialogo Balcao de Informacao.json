@@ -1,0 +1,10 @@
+﻿[
+	{
+        "nomePersonagem": "Employee",
+        "jogadorFala": false,
+        "expressao": "airport_cena1c_npc_conversa",
+        "fala":[
+             "Good afternoon, how can I help?"
+            ]
+    }	
+]

@@ -1,0 +1,55 @@
+﻿[
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "%, look at that puppy!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "It's so cute!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Dog owner",
+        "jogadorFala": false,
+        "expressao": "park_cena_npc2_conversa",
+        "fala":[
+			 "Hello! It’s called Mila, you can pet it if you want."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "It’s adorable!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Dog owner",
+        "jogadorFala": false,
+        "expressao": "park_cena_npc2_conversa",
+        "fala":[
+			 "Hey! Seems like you are a dog person, am I correct?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "You got me!"
+            ]
+    }	 
+]

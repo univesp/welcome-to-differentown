@@ -1,0 +1,22 @@
+﻿[
+	{
+        "nomePersonagem": "Receptionist",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_npc2_conversa",
+        "fala":[
+             "Let me locate this name in my computer.",
+			 "OK, your room is number 201.",
+			 "Breakfast starts at a quarter to eight."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+             "Oh, sorry, %. I didn’t listen to it.",
+			 "When are we going to have breakfast?"
+            ]
+    }	
+]

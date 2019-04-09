@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Univesp | %UNITY_WEB_NAME%</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <!-- <script src="TemplateData/UnityProgress.js"></script> -->
+    <script src="%UNITY_WEBGL_LOADER_URL%"></script>	
+    <script>
+	//turn off unity's annoying alert() dialog.
+     UnityLoader.Error.handler = function(){}
+      var gameInstance = UnityLoader.instantiate("gameContainer", "%UNITY_WEBGL_BUILD_URL%");
+    </script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="images/fb-share.png" />
+    <meta property="og:title" content="Univesp | %UNITY_WEB_NAME%" />
+    <meta property="og:description"
+    content=""/>
+
+    <link rel="shortcut icon" href="http://engenharia.cursos.univesp.br/sites/559adb369caf4dea7a002d7a/theme/others/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css">
+
+    <!-- Icons from Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Lato by Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <!-- Social Media Sharing with Js Socials -->
+    <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.css" />
+    <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials-theme-plain.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="https://apps.univesp.br/common/rea_global2018.css">
+
+    <script src="TemplateData/ScreenResize.js"></script>
+  </head>
+
+  <body>
+
+    <!-- Menu -->
+    <nav tabindex="0">
+      <div class="container">
+        <img src="https://apps.univesp.br/common/logo-univesp-colorido.svg" alt="Logo da Univesp">
+        <div id="sharing">
+          COMPARTILHE!
+          <div id="share-buttons"></div>
+        </div>
+      </div>
+    </nav>
+    <div class="webgl-content">
+      <div class= "jogo" id="gameContainer"></div>
+      
+      <div class="footer">
+
+        <a class="btn btn-secondary" href="%UNITY_CUSTOM_LINK_AVALICAO%" role="button" target="_blank" style="background-color: #939393; border-radius: 0">Avalie nosso jogo</a>
+
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+
+      </div>
+    </div>
+
+<script src="blob:https://apps.univesp.br/378788e1-9aa1-45aa-909b-c4bbeabf28b1"></script><script src="blob:https://apps.univesp.br/d2c61dd5-b83c-40eb-b2c0-2b8c5bb708f9"></script></body></html>
+    <footer tabindex="0">
+      <div class="container">
+        <p>
+          <strong>Professor Responsável:</strong> %UNITY_CUSTOM_NOME_PROFESSOR%
+        </p>
+        <p>
+          <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
+        </p>
+      </div>
+    </footer>
+    <!-- Fim do rodapé -->
+
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="https://apps.univesp.br/common/analytics.js"></script>
+    <script src="https://apps.univesp.br/common/posiciona-rodape.js"></script>
+
+    <!-- Js Socials -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.min.js"></script>
+    <script>
+    var share = $("#share-buttons");
+    var page_title = $(document).attr('title');
+    var page_url = window.location.href;
+    share.jsSocials({
+      // shares: ["email", "twitter", "facebook", "googleplus", "linkedin", "pinterest", "stumbleupon", "whatsapp"]
+      shares: ["facebook", "twitter", "email"],
+      url: page_url,
+      text: 'Confira o REA ' + page_title + ': ',
+      showLabel: false,
+      showCount: false,
+      shareIn: "popup",
+    });
+    </script>
+    <script>
+      $(document).ready(function(){
+          var screenWidth = window.innerWidth;//screen.availWidth;
+        var screenHeight = window.innerHeight;//screen.availHeight;
+        
+        var elements = document.getElementsByClassName("webgl-content");
+        
+        if(screenWidth/screenHeight >1.5){
+          elements[0].style.height = ((screenHeight*0.82)+"px");
+          elements[0].style.width = ((screenHeight*0.82/0.5625)+"px");
+          
+        }else{
+          elements[0].style.width = (screenWidth+"px");
+          elements[0].style.height = ((screenWidth*0.5625)+"px");
+        }
+      })
+    </script>
+  </body>
+
+</html>

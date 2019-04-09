@@ -1,0 +1,21 @@
+﻿[
+	{
+        "nomePersonagem": "Waiter",
+        "jogadorFala": false,
+        "expressao": "restaurant_cena_npc_conversa",
+        "fala":[
+			 "Here it is."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Thanks!",
+			 "%, leave it to me, ok?",
+			 "Next time, buy me a petit gateau and we’re even! *blink*"
+            ]
+    }
+]

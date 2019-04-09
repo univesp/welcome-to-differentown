@@ -1,0 +1,13 @@
+﻿[
+	{
+        "nomePersonagem": "Officer",
+        "jogadorFala": false,
+        "expressao": "airport_cena1a_npc_conversa",
+        "fala":[
+             "%, huh? Let me check here, give me a minute.",
+			 "...",
+			 "Okay, you are good to go.",
+			 "Have a nice trip!"
+            ]
+    }
+]

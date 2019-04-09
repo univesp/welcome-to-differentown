@@ -1,0 +1,10 @@
+﻿[
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Come on, we have more shopping to do!"
+            ]
+    }
+]

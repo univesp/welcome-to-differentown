@@ -1,0 +1,28 @@
+﻿[
+	{
+        "nomePersonagem": "Taxi Driver",
+        "jogadorFala": false,
+        "expressao": "airport_cena2b_npc_conversa",
+        "fala":[
+             "Hey, what’s up? Where can I take you?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+             "Please take me to 1845 Oxford Street."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Taxi Driver",
+        "jogadorFala": false,
+        "expressao": "airport_cena2b_npc_conversa",
+        "fala":[
+             "All right! Fasten your seatbelt, please!"
+            ]
+    }
+]

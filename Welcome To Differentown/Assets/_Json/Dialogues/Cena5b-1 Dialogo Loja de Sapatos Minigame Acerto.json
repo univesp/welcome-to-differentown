@@ -1,0 +1,37 @@
+﻿[
+	{
+        "nomePersonagem": "Vendor",
+        "jogadorFala": false,
+        "expressao": "shopping_cena_npc1_conversa",
+        "fala":[
+			 "Alright."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Vendor",
+        "jogadorFala": false,
+        "expressao": "shopping_cena_npc1_conversa",
+        "fala":[
+			 "Done. Thank you for your preference!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Thanks!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "Thank you!"
+            ]
+    }
+]

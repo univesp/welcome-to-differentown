@@ -1,0 +1,12 @@
+﻿[
+	{
+        "nomePersonagem": "Vendor",
+        "jogadorFala": false,
+        "expressao": "airport_cena2c_npc_conversa",
+        "fala":[
+             "Welcome, my friend!",
+			 "We have a great variety of treats here! Are you looking for something specific?",
+			 "Maybe for that special one, riiight?"
+            ]
+    }	
+]

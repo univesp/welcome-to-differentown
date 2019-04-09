@@ -1,0 +1,41 @@
+﻿[
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+             "Lauren!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+             "Hey, %!",
+			 "We haven’t seen each other for a long time!",
+			 "I’m so glad that you came to visit me in Differentown!",
+			 "Have you checked in?"
+            ]
+    },
+	
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+             "Not yet."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+             "That’s a great opportunity to train your conversation.",
+			 "Come here!"
+            ]
+    }
+]

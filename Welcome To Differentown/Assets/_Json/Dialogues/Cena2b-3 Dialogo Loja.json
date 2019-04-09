@@ -1,0 +1,10 @@
+﻿[
+	{
+        "nomePersonagem": "Vendor",
+        "jogadorFala": false,
+        "expressao": "airport_cena2c_npc_conversa",
+        "fala":[
+			 "Here you go! Follow me, I’ll show you the way."
+            ]
+    }	
+]

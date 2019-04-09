@@ -1,0 +1,13 @@
+﻿[
+	{
+        "nomePersonagem": " ",
+        "jogadorFala": true,
+        "expressao": " ",
+        "fala":[
+             "Finalmente cheguei!",
+			 "Agora, preciso pedir um táxi para o hotel. A Lauren vai me encontrar lá.",
+			 "Hora de praticar meu inglês! Será que aquela funcionária pode me indicar onde é o ponto de táxi?",
+			 "Vou perguntar."
+            ]
+    }
+]

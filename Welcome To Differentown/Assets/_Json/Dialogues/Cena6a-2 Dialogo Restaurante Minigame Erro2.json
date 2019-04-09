@@ -1,0 +1,40 @@
+﻿[
+	{
+        "nomePersonagem": "Waiter",
+        "jogadorFala": false,
+        "expressao": "restaurant_cena_npc_conversa",
+        "fala":[
+			 "Oh, of course. Here is the menu."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Haha! I’m sorry, sir! We are satisfied.",
+			 "Can I get the check, please?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Waiter",
+        "jogadorFala": false,
+        "expressao": "restaurant_cena_npc_conversa",
+        "fala":[
+			 "Here it is."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Thanks!",
+			 "%, leave it to me, ok?",
+			 "Next time, buy me a petit gateau and we’re even! *blink*"
+            ]
+    }
+]

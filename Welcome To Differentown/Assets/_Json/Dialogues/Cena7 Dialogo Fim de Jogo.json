@@ -1,0 +1,21 @@
+﻿[
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "See you soon, %!",
+			 "I had a really good time with you, come see me again, sometime!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "Of course I will!",
+			 "See you soon Differentown!"
+            ]
+    }
+]

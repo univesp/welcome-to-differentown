@@ -1,0 +1,30 @@
+﻿[
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "Lauren, don’t you think we already shopped enough?"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Of course not. Humpf!",
+			 "Take a look at the shopping list that I gave you, please.",
+			 "Let's see what we are still missing."
+            ]
+    },
+
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "Okay."
+            ]
+    }
+]

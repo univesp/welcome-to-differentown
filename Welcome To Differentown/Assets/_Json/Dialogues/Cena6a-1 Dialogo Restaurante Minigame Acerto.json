@@ -1,0 +1,39 @@
+﻿[
+	{
+        "nomePersonagem": "",
+        "jogadorFala": true,
+        "expressao": "",
+        "fala":[
+			 "I’ve made up my mind.",
+			 "I would like to taste the spicy pasta with some grilled steaks, please!"
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "And some appetizers for me, please."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Waiter",
+        "jogadorFala": false,
+        "expressao": "restaurant_cena_npc_conversa",
+        "fala":[
+			 "Make yourselves comfortable.",
+			 "Your meal will be ready in about 15 minutes."
+            ]
+    },
+
+	{
+        "nomePersonagem": "Lauren",
+        "jogadorFala": false,
+        "expressao": "hotel_cena_lauren_conversa",
+        "fala":[
+			 "Thank you!"
+            ]
+    }
+]

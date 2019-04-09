@@ -1,0 +1,10 @@
+﻿[
+	{
+        "nomePersonagem": "Hot-dog seller",
+        "jogadorFala": false,
+        "expressao": "park_cena_npc1_conversa",
+        "fala":[
+			 "Come back anytime!"
+            ]
+    }
+]
