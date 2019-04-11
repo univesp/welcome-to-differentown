@@ -4,7 +4,7 @@
         "jogadorFala": false,
         "expressao": "hotel_cena_lauren_conversa",
         "fala":[
-			 "%, look! What about we have a hot-dog now?"
+			 "%, look! What about having a hot dog now?"
             ]
     },
 
@@ -22,7 +22,7 @@
         "jogadorFala": false,
         "expressao": "hotel_cena_lauren_conversa",
         "fala":[
-			 "In Differentown, people like hot-dogs with lots of onions."
+			 "In Differentown, people like hot dogs with lots of onions."
             ]
     },
 
@@ -31,7 +31,7 @@
         "jogadorFala": true,
         "expressao": "",
         "fala":[
-			 "Ugh! I don’t like onions, but I really enjoy mashed potatoes in my hot-dog."
+			 "Ugh! I don’t like onions, but I really enjoy mashed potatoes in my hot dog."
             ]
     },
 
@@ -59,7 +59,7 @@
         "expressao": "park_cena_npc1_conversa",
         "fala":[
 			 "Hello, friend!",
-			 "Welcome to B-Dogs, the best hot-dog you will find in the street!",
+			 "Welcome to B-Dogs, the best hot dog you will find on the street!",
 			 "So tell me, how would you like it today?"
             ]
     }

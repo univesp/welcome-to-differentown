@@ -44,8 +44,8 @@ PlayerSettings:
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
-  defaultScreenWidthWeb: 1280
-  defaultScreenHeightWeb: 720
+  defaultScreenWidthWeb: 960
+  defaultScreenHeightWeb: 540
   m_StereoRenderingPath: 0
   m_ActiveColorSpace: 0
   m_MTRendering: 1
@@ -281,7 +281,7 @@ PlayerSettings:
     PALAVRAS_CHAVE: 'Jogo Recurso Interativo '
     URL_AVALIACAO: https://docs.google.com/forms/d/e/1FAIpQLSeG3IjXraVGlHlQo2ffSiF0JkN5ga2qRuX0PGQ-Of72-1A81Q/viewform?entry.542052009=Welcome+to+Differentown
     URL_BUGS: https://docs.google.com/forms/d/e/1FAIpQLSdVlvpMJ-PAmiNz1LxmgfrJSivihklJbkaEl2jBQZ65IJy97w/viewform?entry.1523910789=Welcome+to+Differentown
-    URL_GITHUB: 
+    URL_GITHUB: https://github.com/univesp/welcome-to-differentown
   mobileMTRendering:
     Android: 1
     iPhone: 1

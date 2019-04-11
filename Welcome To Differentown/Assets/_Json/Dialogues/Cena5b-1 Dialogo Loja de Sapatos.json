@@ -14,7 +14,7 @@
         "expressao": "hotel_cena_lauren_conversa",
         "fala":[
 			 "I really liked those purple sneakers at the shop window.",
-			 "How much does it cost?"
+			 "How much do they cost?"
             ]
     },
 
@@ -23,7 +23,7 @@
         "jogadorFala": false,
         "expressao": "shopping_cena_npc1_conversa",
         "fala":[
-			 "It’s US$ 30."
+			 "They are US$ 30."
             ]
     },
 
@@ -32,7 +32,7 @@
         "jogadorFala": false,
         "expressao": "hotel_cena_lauren_conversa",
         "fala":[
-			 "I’ll take it!",
+			 "I’ll take them!",
 			 "%, I’m going to try these shoes on.",
 			 "Meanwhile, can you pay the sneakers for me?",
 			 "Here’s the money."
