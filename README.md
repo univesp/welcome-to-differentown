@@ -14,7 +14,7 @@ Para editar esse REA, você precisará estar familiarizado com Unity3d, C# e Jso
 
 - - - -
 
-## 1. Mudar o idioma ##
+### 1. Mudar o idioma ###
 
 Todos os diálogos estão escritos em Json, com exceção dos textos dentro dos botões. Eles seguem obrigatoriamente a seguinte estrutura:
 ```
